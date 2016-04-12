@@ -1,6 +1,6 @@
 {
   "name": "pad-end",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES7 spec-compliant String.prototype.padEnd shim.",
   "main": "index.js",
   "scripts": {

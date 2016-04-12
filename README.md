@@ -1,9 +1,6 @@
 # pad-end <sup>[![Version Badge](http://versionbadg.es/bubkoo/pad-end.svg)](https://npmjs.org/package/pad-end)</sup>
 
-
-
 > ES7 spec-compliant String.prototype.padEnd shim.
-
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/pad-end/blob/master/LICENSE)
 
@@ -11,11 +8,13 @@
 [![coverage:?](https://img.shields.io/coveralls/bubkoo/pad-end/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/pad-end)
 
 
+
 ## Install
 
 ```
 $ npm install --save pad-end 
 ```
+
 
 ## Usage
 
@@ -34,6 +33,7 @@ padEnd('abcd', 6, '123456'); // => 'abcd12'
 
 ```
 
+
 ## Related
 
 - [pad-start](https://github.com/bubkoo/pad-start) - ES spec-compliant String.prototype.padStart shim.
@@ -44,8 +44,6 @@ padEnd('abcd', 6, '123456'); // => 'abcd12'
 
 ## Contributing
  
-Pull requests and stars are always welcome. 
+Pull requests and stars are highly welcome. 
 
 For bugs and feature requests, please [create an issue](https://github.com/bubkoo/pad-end/issues).
-
-But before doing anything, please read the [CONTRIBUTING](https://github.com/tunnckocore/starts-with/blob/master/CONTRIBUTING.md) guidelines.

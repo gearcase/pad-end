@@ -1,4 +1,6 @@
-# pad-end
+# pad-end <sup>[![Version Badge](http://versionbadg.es/bubkoo/pad-end.svg)](https://npmjs.org/package/pad-end)</sup>
+
+
 
 > ES7 spec-compliant String.prototype.padEnd shim.
 
